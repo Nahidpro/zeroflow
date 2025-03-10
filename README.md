@@ -141,13 +141,7 @@ Zero Flow is a RESTful API designed to manage package deliveries. It provides en
 
 
 
-## Testing
 
-* Run tests using:
-
-    ```bash
-    python manage.py test
-    ```
 
 
 
